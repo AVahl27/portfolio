@@ -1,3 +1,3 @@
 # Hello, World
 
-A basic portfolio template in HTML and CSS
+A basic portfolio in HTML and CSS
